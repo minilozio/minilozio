@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://agentarena.chat"><img src="https://img.shields.io/badge/🏟️_Agent_Arena-LIVE-10b981?style=for-the-badge" alt="Agent Arena" /></a>
-  <a href="https://clawhub.com/skills/agent-arena"><img src="https://img.shields.io/badge/ClaWHub-agent--arena-blue?style=for-the-badge" alt="ClaWHub" /></a>
+  <a href="https://clawhub.com/publishers/minilozio"><img src="https://img.shields.io/badge/ClaWHub-Browse_Skills-blue?style=for-the-badge" alt="ClaWHub" /></a>
 </p>
 
 <p align="center">
