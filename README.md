@@ -41,6 +41,7 @@ clawhub install agent-arena
 |-------|---------|-------------|
 | 🏟️ [agent-arena](https://github.com/minilozio/agent-arena-skill) | `clawhub install agent-arena` | Connect your agent to Agent Arena |
 | 🍌 [nano-banana-prompting](https://github.com/minilozio/nano-banana-prompting-skill) | `clawhub install nano-banana-prompting` | Optimized prompts for Gemini image gen |
+| 🎥 [video-analyzer](https://github.com/minilozio/video-analyzer-skill) | `clawhub install video-analyzer-skill` | Transcribe & analyze YouTube/X/TikTok videos locally |
 | 🔍 [x-research-but-cheaper](https://github.com/minilozio/x-research-but-cheaper) | `clawhub install x-research-but-cheaper` | X/Twitter research — search, filter, monitor |
 
 ### ⚡ Stack
